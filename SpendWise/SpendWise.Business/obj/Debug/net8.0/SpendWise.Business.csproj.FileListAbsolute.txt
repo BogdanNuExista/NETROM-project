@@ -1,0 +1,15 @@
+E:\NETROM project\SpendWise\SpendWise.Business\bin\Debug\net8.0\SpendWise.Business.deps.json
+E:\NETROM project\SpendWise\SpendWise.Business\bin\Debug\net8.0\SpendWise.Business.dll
+E:\NETROM project\SpendWise\SpendWise.Business\bin\Debug\net8.0\SpendWise.Business.pdb
+E:\NETROM project\SpendWise\SpendWise.Business\bin\Debug\net8.0\SpendWise_DataAccess.dll
+E:\NETROM project\SpendWise\SpendWise.Business\bin\Debug\net8.0\SpendWise_DataAccess.pdb
+E:\NETROM project\SpendWise\SpendWise.Business\obj\Debug\net8.0\SpendWise.Business.csproj.AssemblyReference.cache
+E:\NETROM project\SpendWise\SpendWise.Business\obj\Debug\net8.0\SpendWise.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\NETROM project\SpendWise\SpendWise.Business\obj\Debug\net8.0\SpendWise.Business.AssemblyInfoInputs.cache
+E:\NETROM project\SpendWise\SpendWise.Business\obj\Debug\net8.0\SpendWise.Business.AssemblyInfo.cs
+E:\NETROM project\SpendWise\SpendWise.Business\obj\Debug\net8.0\SpendWise.Business.csproj.CoreCompileInputs.cache
+E:\NETROM project\SpendWise\SpendWise.Business\obj\Debug\net8.0\SpendWis.ACAA48B3.Up2Date
+E:\NETROM project\SpendWise\SpendWise.Business\obj\Debug\net8.0\SpendWise.Business.dll
+E:\NETROM project\SpendWise\SpendWise.Business\obj\Debug\net8.0\refint\SpendWise.Business.dll
+E:\NETROM project\SpendWise\SpendWise.Business\obj\Debug\net8.0\SpendWise.Business.pdb
+E:\NETROM project\SpendWise\SpendWise.Business\obj\Debug\net8.0\ref\SpendWise.Business.dll

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\NETROM project\\SpendWise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C990F2E-6DDA-410B-AF8A-1EBE447941C7}|SpendWise\\SpendWise.csproj|e:\\netrom project\\spendwise\\spendwise\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C990F2E-6DDA-410B-AF8A-1EBE447941C7}|SpendWise\\SpendWise.csproj|solutionrelative:spendwise\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5407DA05-774D-443E-9567-D36795C3A53E}|SpendWise.Business\\SpendWise.Business.csproj|e:\\netrom project\\spendwise\\spendwise.business\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5407DA05-774D-443E-9567-D36795C3A53E}|SpendWise.Business\\SpendWise.Business.csproj|solutionrelative:spendwise.business\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C412D7-D6A8-46F6-8AEB-F307C6833FA5}|SpendWise_DataAccess\\SpendWise_DataAccess.csproj|e:\\netrom project\\spendwise\\spendwise_dataaccess\\dtos\\totalpricecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C412D7-D6A8-46F6-8AEB-F307C6833FA5}|SpendWise_DataAccess\\SpendWise_DataAccess.csproj|solutionrelative:spendwise_dataaccess\\dtos\\totalpricecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5407DA05-774D-443E-9567-D36795C3A53E}|SpendWise.Business\\SpendWise.Business.csproj|e:\\netrom project\\spendwise\\spendwise.business\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5407DA05-774D-443E-9567-D36795C3A53E}|SpendWise.Business\\SpendWise.Business.csproj|solutionrelative:spendwise.business\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C990F2E-6DDA-410B-AF8A-1EBE447941C7}|SpendWise\\SpendWise.csproj|e:\\netrom project\\spendwise\\spendwise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C990F2E-6DDA-410B-AF8A-1EBE447941C7}|SpendWise\\SpendWise.csproj|solutionrelative:spendwise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C412D7-D6A8-46F6-8AEB-F307C6833FA5}|SpendWise_DataAccess\\SpendWise_DataAccess.csproj|e:\\netrom project\\spendwise\\spendwise_dataaccess\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C412D7-D6A8-46F6-8AEB-F307C6833FA5}|SpendWise_DataAccess\\SpendWise_DataAccess.csproj|solutionrelative:spendwise_dataaccess\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\NETROM project\\SpendWise\\SpendWise\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "SpendWise\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\NETROM project\\SpendWise\\SpendWise\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "SpendWise\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:49:50.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "E:\\NETROM project\\SpendWise\\SpendWise.Business\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "SpendWise.Business\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "E:\\NETROM project\\SpendWise\\SpendWise.Business\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "SpendWise.Business\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:37:39.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "E:\\NETROM project\\SpendWise\\SpendWise.Business\\CategoryService.cs",
+              "RelativeDocumentMoniker": "SpendWise.Business\\CategoryService.cs",
+              "ToolTip": "E:\\NETROM project\\SpendWise\\SpendWise.Business\\CategoryService.cs",
+              "RelativeToolTip": "SpendWise.Business\\CategoryService.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwD0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:37:33.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TotalPriceCategoryDto.cs",
+              "DocumentMoniker": "E:\\NETROM project\\SpendWise\\SpendWise_DataAccess\\Dtos\\TotalPriceCategoryDto.cs",
+              "RelativeDocumentMoniker": "SpendWise_DataAccess\\Dtos\\TotalPriceCategoryDto.cs",
+              "ToolTip": "E:\\NETROM project\\SpendWise\\SpendWise_DataAccess\\Dtos\\TotalPriceCategoryDto.cs",
+              "RelativeToolTip": "SpendWise_DataAccess\\Dtos\\TotalPriceCategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T21:40:47.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "E:\\NETROM project\\SpendWise\\SpendWise_DataAccess\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "SpendWise_DataAccess\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "E:\\NETROM project\\SpendWise\\SpendWise_DataAccess\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "SpendWise_DataAccess\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:28:47.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\NETROM project\\SpendWise\\SpendWise\\Program.cs",
+              "RelativeDocumentMoniker": "SpendWise\\Program.cs",
+              "ToolTip": "E:\\NETROM project\\SpendWise\\SpendWise\\Program.cs",
+              "RelativeToolTip": "SpendWise\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAD0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:31:01.597Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

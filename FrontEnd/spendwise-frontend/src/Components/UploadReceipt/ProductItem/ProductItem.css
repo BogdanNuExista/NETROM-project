@@ -1,0 +1,20 @@
+.product-box {
+    padding: 1rem;
+    border: 2px solid #b77f7f;
+    border-radius: 2rem;
+  }
+  
+  .product-name {
+    font-weight: bold !important;
+    font-size: 20px !important;
+  }
+  
+  .product-quantity,
+  .product-price {
+    margin-left: 10px;
+    font-size: 20px !important;
+  }
+  
+  .category-select {
+    display: flex !important;
+  }

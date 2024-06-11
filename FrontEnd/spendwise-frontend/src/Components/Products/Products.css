@@ -1,0 +1,15 @@
+.products-page-card {
+    background: #dcda64cf !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 0 40px rgba(0, 0, 0, 0.1),
+      inset 0 0 10px rgba(0, 0, 0, 0.1) !important;
+  }
+  
+  .products-page-category {
+    font-weight: 800 !important;
+    color: #fff;
+    font-size: 25px !important;
+  }
+  
+  .products-page-container {
+    padding: 2rem;
+  }

@@ -1,0 +1,10 @@
+.menu-container{
+    display : flex;
+    flex-direction: row;
+    gap : 1rem;
+}
+
+.menu-button-text{
+    font-size: 18px;
+    color: #FFFFFF;
+}

@@ -1,0 +1,61 @@
+.scan-receipt-modal-actions {
+    justify-content: center !important;
+  }
+  
+  .scan-receipt-modal-content {
+    padding: 1rem !important;
+  }
+  
+  .upload-receipt-button-container {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+  }
+  
+  .select-categories-container {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+  }
+  
+  .categories-container {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+    flex-wrap: wrap;
+  }
+  
+  .select-categories-text {
+    font-size: 20px;
+    align-self: center;
+  }
+  
+  .upload-receipt-text {
+    font-size: 20px;
+    align-self: center;
+  }
+  
+  .selected-file-text {
+    font-size: 20px;
+    align-self: center;
+  }
+  
+  .category-item {
+    display: flex;
+    align-items: center;
+    border: 2px solid #d1cd00;
+    padding: 1rem;
+  }
+  
+  .spinner-layout {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+  }

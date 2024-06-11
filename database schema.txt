@@ -1,0 +1,21 @@
+Product:
+-> id int pk
+-> name varchar(255)
+
+Category:
+-> id int pk
+-> name varchar(255)
+
+ProductCategory:
+-> product id fk
+-> category id fk
+
+Cart:
+-> id
+-> data
+
+Cart Product:
+-> cart id fk
+-> product id fk
+-> qty int
+-> pret float 

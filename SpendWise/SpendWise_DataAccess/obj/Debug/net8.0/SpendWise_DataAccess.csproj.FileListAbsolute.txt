@@ -1,0 +1,14 @@
+E:\NETROM project\SpendWise\SpendWise_DataAccess\bin\Debug\net8.0\SpendWise_DataAccess.deps.json
+E:\NETROM project\SpendWise\SpendWise_DataAccess\bin\Debug\net8.0\SpendWise_DataAccess.runtimeconfig.json
+E:\NETROM project\SpendWise\SpendWise_DataAccess\bin\Debug\net8.0\SpendWise_DataAccess.dll
+E:\NETROM project\SpendWise\SpendWise_DataAccess\bin\Debug\net8.0\SpendWise_DataAccess.pdb
+E:\NETROM project\SpendWise\SpendWise_DataAccess\obj\Debug\net8.0\SpendWise_DataAccess.csproj.AssemblyReference.cache
+E:\NETROM project\SpendWise\SpendWise_DataAccess\obj\Debug\net8.0\SpendWise_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\NETROM project\SpendWise\SpendWise_DataAccess\obj\Debug\net8.0\SpendWise_DataAccess.AssemblyInfoInputs.cache
+E:\NETROM project\SpendWise\SpendWise_DataAccess\obj\Debug\net8.0\SpendWise_DataAccess.AssemblyInfo.cs
+E:\NETROM project\SpendWise\SpendWise_DataAccess\obj\Debug\net8.0\SpendWise_DataAccess.csproj.CoreCompileInputs.cache
+E:\NETROM project\SpendWise\SpendWise_DataAccess\obj\Debug\net8.0\SpendWise_DataAccess.dll
+E:\NETROM project\SpendWise\SpendWise_DataAccess\obj\Debug\net8.0\refint\SpendWise_DataAccess.dll
+E:\NETROM project\SpendWise\SpendWise_DataAccess\obj\Debug\net8.0\SpendWise_DataAccess.pdb
+E:\NETROM project\SpendWise\SpendWise_DataAccess\obj\Debug\net8.0\SpendWise_DataAccess.genruntimeconfig.cache
+E:\NETROM project\SpendWise\SpendWise_DataAccess\obj\Debug\net8.0\ref\SpendWise_DataAccess.dll

@@ -1,0 +1,23 @@
+.statistics-title-text {
+    font-size: 35px;
+    color: #d1cd00;
+    font-weight: 600;
+    align-self: center;
+  }
+  
+  .statistics-page-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+    padding: 1rem;
+  }
+  
+  .statistics-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    gap: 1rem;
+    padding: 2rem;
+  }
